@@ -14,6 +14,7 @@
     "@emotion/css": "^11.10.5",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "slate": "^0.88.1",
     "slate-history": "^0.86.0",
     "slate-react": "^0.88.2"
   },
